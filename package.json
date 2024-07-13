@@ -1,0 +1,29 @@
+{
+  "name": "vite-plugin-htaccess",
+  "version": "1.0.2",
+  "description": "A Vite plugin to generate .htaccess files and populate.htaccess file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "clean": "node vite.clean.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "keywords": [
+    "vite",
+    "plugin",
+    "htaccess",
+    "automation"
+  ],
+  "author": "clearlyConfused.",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.24.8",
+    "@babel/preset-env": "^7.24.8",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
