@@ -33,7 +33,7 @@ export default defineConfig({
 
 This will create a `.htaccess` file in the `public/build/.vite/` directory with the following content :
 
-````python
+```python
 # BEGIN Vite
 <Files "manifest.json">
     Require all denied
