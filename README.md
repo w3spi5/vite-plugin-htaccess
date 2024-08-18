@@ -1,6 +1,7 @@
 # vite-plugin-htaccess
 
 A Vite plugin to generate .htaccess files.
+Available at NPM  : https://www.npmjs.com/package/vite-plugin-htaccess
 
 ## Installation
 
